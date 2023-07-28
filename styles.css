@@ -1,0 +1,103 @@
+/* Add some basic styling to the modules */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #000; /* Black background color */
+    color: #fff; /* White text color */
+  }
+  
+  .module {
+    margin-bottom: 1.5rem;
+    border-radius: 4px;
+    overflow: hidden;
+    background-color: #444; /* Dark grey background color */
+    transition: box-shadow 0.3s, background-color 0.3s;
+  }
+  
+  .module:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #555; /* Slightly lighter black background color on hover */
+  }
+  
+  .module-title {
+    background-color: #666; /* Medium grey background color */
+    padding: 1.5rem;
+    cursor: pointer;
+    margin: 0;
+    font-size: 1.2rem;
+    transition: background-color 0.3s;
+  }
+  
+  .module-title:hover {
+    background-color: #777; /* Slightly lighter grey background color on hover */
+  }
+  
+  .module-content {
+    padding: 1.5rem;
+    display: none; /* Hide the content by default */
+  }
+  
+  .submodule {
+    margin-bottom: 1rem;
+  }
+  
+  .submodule-title {
+    background-color: #333; /* Dark grey background color */
+    padding: 1rem;
+    cursor: pointer;
+    margin: 0;
+    font-size: 1.1rem;
+    transition: background-color 0.3s;
+  }
+  
+  .submodule-title:hover {
+    background-color: #444; /* Slightly lighter grey background color on hover */
+  }
+  
+  .submodule-content {
+    padding: 1rem;
+    display: none; /* Hide the content by default */
+  }
+  
+  /* Styling for list items */
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 4px;
+    background-color: #222; /* Darker grey background color for list items */
+    transition: background-color 0.3s;
+  }
+  
+  /* Add a hover effect for list items */
+  li:hover {
+    background-color: #333; /* Slightly lighter grey background color on hover */
+  }
+  
+  /* Add a simple animation for the collapsible effect */
+  .collapsed {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+  }
+  
+  /* Main title */
+  .main-title {
+    text-align: center; /* Center the text */
+    margin-top: 20px; /* Add some top margin for spacing */
+  }
+  .main-title:hover {
+    color: #ffcc00; /* Change the text color on hover (you can use any color you prefer) */
+    box-shadow: 0 0 10px rgba(255, 204, 0, 0.5); /* Add a slight shadow on hover */
+  }
+  .submodule-content i,
+  .module-title i,
+  .submodule-title i {
+    color: #ffcc00; /* Icon color */
+  }

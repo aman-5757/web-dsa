@@ -1,0 +1,110 @@
+{
+    "modules": [
+      {
+        "title": "Basics of Programming",
+        "submodules": [
+          {
+            "title": "Getting Started",
+            "items": [
+              "How to print in Java",
+              "Print Z",
+              "Variables",
+              "Grading System",
+              "Loops",
+              "Take input",
+              "Conditionals",
+              "Is a number prime",
+              "Prime till N",
+              "Print Fibonacci Numbers till N"
+            ]
+          },
+          {
+            "title": "Patterns",
+            "items": [
+              "Pattern 1",
+              "Pattern 2",
+              "Pattern 3",
+              "Pattern 4",
+              "Pattern 5",
+              "Pattern 6",
+              "Pattern 7",
+              "Pattern 8",
+              "Pattern 9",
+              "Pattern 10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Basics of Programming",
+        "submodules": [
+          {
+            "title": "Getting Started",
+            "items": [
+              "How to print in Java",
+              "Print Z",
+              "Variables",
+              "Grading System",
+              "Loops",
+              "Take input",
+              "Conditionals",
+              "Is a number prime",
+              "Prime till N",
+              "Print Fibonacci Numbers till N"
+            ]
+          },
+          {
+            "title": "Patterns",
+            "items": [
+              "Pattern 1",
+              "Pattern 2",
+              "Pattern 3",
+              "Pattern 4",
+              "Pattern 5",
+              "Pattern 6",
+              "Pattern 7",
+              "Pattern 8",
+              "Pattern 9",
+              "Pattern 10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Basics of Programming",
+        "submodules": [
+          {
+            "title": "Getting Started",
+            "items": [
+              "How to print in Java",
+              "Print Z",
+              "Variables",
+              "Grading System",
+              "Loops",
+              "Take input",
+              "Conditionals",
+              "Is a number prime",
+              "Prime till N",
+              "Print Fibonacci Numbers till N"
+            ]
+          },
+          {
+            "title": "Patterns",
+            "items": [
+              "Pattern 1",
+              "Pattern 2",
+              "Pattern 3",
+              "Pattern 4",
+              "Pattern 5",
+              "Pattern 6",
+              "Pattern 7",
+              "Pattern 8",
+              "Pattern 9",
+              "Pattern 10"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
